@@ -1,3 +1,11 @@
+/**
+ * PROBLEMA:3209 - Tomadas Elétricas
+RESPOSTA:Accepted
+LINGUAGEM:Dart (dart 2.9) [+2s]
+TEMPO:0.012s
+TAMANHO:385 Bytes
+SUBMISSÃO:12/07/2022 12:37:30
+ */
 import 'dart:io';
 
 void main() {
